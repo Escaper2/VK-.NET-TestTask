@@ -2,6 +2,6 @@
 
 Rest API with Clean Architecture.
 
--EF
--MediatR
--Fluent Validation
+- EF 
+- MediatR
+- Fluent Validation
